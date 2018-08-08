@@ -3,8 +3,8 @@
 > A simplified example of a modern module bundler written in JavaScript
 > Перед вами вариант простейшего сборщика JavaScript-модулей, работающего по тем же принципам, что и распространенные сегодня популярные инструменты для генерации бандлов.
 
-Процесс его написания в реальном времени переведен на русский. Можно посмотреть и поднять свой левел тут: 
-[(http://img.youtube.com/vi/MdAuW9n2iec/maxresdefault.jpg)](https://www.youtube.com/watch?v=MdAuW9n2iec)
+Процесс его написания в реальном времени переведен на русский.
+[![Можно посмотреть и поднять свой левел тут:](http://img.youtube.com/vi/MdAuW9n2iec/maxresdefault.jpg)](https://www.youtube.com/watch?v=MdAuW9n2iec)
 
 ### Введение
 
